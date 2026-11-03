@@ -22,8 +22,10 @@ Aspiring aerospace engineer driven by curiosity, global experience, and a desire
 
 ### `> Stats`
 
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=nashledy&show_icons=true&hide_border=true&bg_color=0a0f0a&title_color=00ff41&icon_color=00c832&text_color=9be9a8&ring_color=00ff41" alt="GitHub stats" />
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashledy&layout=compact&hide_border=true&bg_color=0a0f0a&title_color=00ff41&text_color=9be9a8" alt="Top languages" />
+<img height="130" src="https://streak-stats.demolab.com?user=nashledy&background=0A0F0A&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=9BE9A8&sideNums=9BE9A8&dates=4D664D&stroke=0B3D17&border=0B3D17" alt="GitHub streak" />
+
+<img src="https://img.shields.io/github/followers/nashledy?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0f0a&color=00ff41" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=nashledy&style=flat-square&color=00ff41&labelColor=0a0f0a&label=PROFILE+VIEWS" alt="Profile views" />
 
 ### `> Modules`
 
