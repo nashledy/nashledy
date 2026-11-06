@@ -28,31 +28,6 @@ Aspiring aerospace engineer driven by curiosity, global experience, and a desire
 <img src="https://komarev.com/ghpvc/?username=nashledy&style=flat-square&color=00ff41&labelColor=0a0f0a&label=PROFILE+VIEWS" alt="Profile views" />
 
 ### `> Modules`
-
-<details>
-<summary><b>🛠️ Experience</b></summary>
-<br/>
-
-- **Liquid Rocketry at Illinois**: R&D Pyro Valve Developer. Designed functional opening and closing pyrovalves for liquid rocket systems from technical specs, with cross-team integration
-- **HKUST Robotics Team**: Mechanics Trainee. End-to-end robotics development, 3D CAD modeling, metal fabrication, stock cutting, and tight-tolerance machining
-- **Astrix (Student Space Exploration, Hong Kong)**: Mechanical team member on "Aquanaut", a semi-submersible autonomous vehicle, and on the CANSAT team
-- **Hotel Zvíkov**: Head Waiter, Receptionist & Marketing Officer, Caretaker
-- **UIUC Dining Services**: Associate
-- **Mathematics Tutor** (self-employed, Spain)
-
-</details>
-
-<details>
-<summary><b>🎓 Education & Certifications</b></summary>
-<br/>
-
-- **UIUC Grainger**: Aerospace Engineering (2025–2028)
-- **HKUST**: exchange student, B.Eng. Aerospace, Aeronautical and Astronautical Engineering (Aug–Dec 2026)
-- **Sunny View School SL**: A-Levels & IGCSE Diploma (2017–2025)
-- Certifications: CS50 SQL, Maximo for Aviation Foundations, RPA Platform Administrator Foundation
-
-</details>
-
 <details>
 <summary><b>🚀 Projects</b></summary>
 <br/>
